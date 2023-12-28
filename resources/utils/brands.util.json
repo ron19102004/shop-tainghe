@@ -1,0 +1,29 @@
+{
+    "brands": [
+      {
+        "name": "Apple",
+        "logo": "images/logo/apple.jpg"
+      },
+      {
+        "name": "Sony",
+        "logo": "images/logo/sony.jpg"
+      },
+      {
+        "name": "JBL",
+        "logo": "images/logo/jbl.jpg"
+      },
+      {
+        "name": "Bose",
+        "logo": "images/logo/bose.jpg"
+      },
+      {
+        "name": "Garmin",
+        "logo": "images/logo/garmin.png"
+      },
+      {
+        "name": "Fitbit",
+        "logo": "images/logo/fitbit.jpg"
+      }
+    ]
+  }
+  
